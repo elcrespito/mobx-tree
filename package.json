@@ -1,0 +1,31 @@
+{
+  "name": "mobx",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/shortid": "^0.0.29",
+    "@types/styled-components": "4.1.8",
+    "mobx": "^5.9.0",
+    "mobx-devtools": "^0.9.21",
+    "mobx-react": "^5.4.3",
+    "mobx-react-devtools": "^6.1.1",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-scripts-ts": "3.1.0",
+    "shortid": "^2.2.14",
+    "styled-components": "^4.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.9",
+    "@types/node": "^11.10.4",
+    "@types/react": "^16.8.6",
+    "@types/react-dom": "^16.8.2",
+    "typescript": "^3.3.3333"
+  }
+}
